@@ -1,0 +1,10 @@
+------------
+#
+npm init -y
+npm install --save-dev rollup       // module bundler
+npm install --save-dev babel @babel/preset-react @rollup/plugin-babel @babel/core
+
+
+npm install --save-dev styled-jsx   // jsx preprocessor
+npm install --save-dev @babel/preset-react @babel/preset-env @babel/core    // JSX transpiler
+npm install --save-dev @rollup-plugin-babel
