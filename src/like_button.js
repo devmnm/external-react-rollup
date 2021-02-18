@@ -17,9 +17,3 @@ export default class LikeButton extends React.Component {
     );
   }
 }
-
-// const domContainer = document.querySelector('#like_button_container');
-// // ReactDOM.render(e(LikeButton), domContainer);
-// ReactDOM.render(
-//     React.createElement(LikeButton), domContainer
-// )
